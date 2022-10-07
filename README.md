@@ -3,9 +3,8 @@
 <p align="center">
     This repository contains the list of windows builds as parsable JSON files.
     <br>
-    <img alt="Number of builds" src="https://img.shields.io/badge/builds-4262-brightgreen">
-    <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
-    <a href="https://www.youtube.com/c/Podalirius_?sub_confirmation=1" title="Subscribe"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCF_x5O7CSfr82AfNVTKOv_A?style=social"></a>
+    <img alt="Number of builds" src="https://img.shields.io/badge/builds%20(just%20builds)-0-blue">
+    <img alt="Number of builds" src="https://img.shields.io/badge/builds%20(total%20(SKUs,%20languages,%20etc))-0-brightgreen">
     <br>
 </p>
 
