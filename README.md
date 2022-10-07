@@ -14,4 +14,4 @@ There is currently **0** known builds in this repo.
 
 ## Contributing
 
-Pull requests are welcome. Feel free to open an issue if you want to add new windows builds.
+Feel free to open an issue if you want to add new Windows builds.
