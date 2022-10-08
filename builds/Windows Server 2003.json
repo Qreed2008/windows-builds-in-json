@@ -2,26 +2,38 @@
     "Windows Server 2003": {
         "Beta 1": {
             "2230.1": {},
-            "2239.1.idx01.000531-1103": {
-                "English": {
-                    "Advanced Server": {
-                        "x86": {}
+            "2239.1": {
+                "idx01": {
+                    "000531-1103": {
+                        "English": {
+                            "Advanced Server": {
+                                "x86": {}
+                            }
+                        }
                     }
                 }
             },
-            "2250.1;main.000628-2111": {},
-            "2257.1.idx01.000810-2103": {
-                "English": {
-                    "Advanced Server": {
-                        "x86": {},
-                        "IA-64": {}
+            "2250.1.main.000628-2111": {},
+            "2257.1": {
+                "idx01": {
+                    "000810-2103": {
+                        "English": {
+                            "Advanced Server": {
+                                "x86": {},
+                                "IA-64": {}
+                            }
+                        }
                     }
                 }
             },
-            "2267.1.idx01.000910-1316": {
-                "English": {
-                    "Advanced Server": {},
-                    "Datacenter Server": {}
+            "2267.1": {
+                "idx01": {
+                    "000910-1316": {
+                        "English": {
+                            "Advanced Server": {},
+                            "Datacenter Server": {}
+                        }
+                    }
                 }
             },
             "2296.1.beta1.001024-1157": {}
