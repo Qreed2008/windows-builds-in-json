@@ -12,6 +12,10 @@
 
 There is currently **0** known builds in this repo.
 
+The statuses of the builds (Unconfirmed, Available, etc) are not included in here, some builds are fake
+
+This is *very* incomplete at the moment, and undergoing a format re-do of build strings.
+
 ## Contributing
 
 Feel free to open an issue if you want to add new Windows builds.
